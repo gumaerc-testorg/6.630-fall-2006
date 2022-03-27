@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 389ec559-bff1-dd7d-1c0a-b11e71e43d7b
 resourcetype: Document
 title: evanescent.pdf
 uid: 0602d912-b209-688b-a3ab-5140a4669505

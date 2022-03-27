@@ -21,7 +21,7 @@ Evanescent Wave ([PDF]({{< baseurl >}}/resources/evanescent))
 
 Transmission Line Impedance Matching ([PDF]({{< baseurl >}}/resources/match))
 
-Dipole ([PDF]({{< baseurl >}}/resources/dipole))
+Dipole ([PDF]({{< baseurl >}}/resources/dipole-1))
 
 Lumped Transmission Line ([PDF]({{< baseurl >}}/resources/lumped))
 

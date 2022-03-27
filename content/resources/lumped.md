@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 389ec559-bff1-dd7d-1c0a-b11e71e43d7b
 resourcetype: Document
 title: lumped.pdf
 uid: 64409b23-2467-74a6-2477-edd373d5ac0b

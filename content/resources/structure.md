@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: f91abf67-93d6-ab06-09d8-68efec359e08
 resourcetype: Document
 title: structure.pdf
 uid: 9d17ccb0-ae9c-3745-9fbc-6ba0627f8697

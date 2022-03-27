@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 389ec559-bff1-dd7d-1c0a-b11e71e43d7b
 resourcetype: Document
 title: brewster.pdf
 uid: d49df5ac-2e2c-1547-4db7-5322e4a20a9f

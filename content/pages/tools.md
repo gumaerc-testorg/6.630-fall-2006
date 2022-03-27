@@ -29,7 +29,7 @@ Matlab® SCRIPTS / DEMO TOPICS
 {{< tdopen >}}
 Hertzian Dipole ([MP4](/ans7870/6/6.630/f06/tools/dipole.mp4))  
   
-Matlab® Script, dipole.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/dipole.m))
+Matlab® Script, dipole.m ([M]({{< baseurl >}}/resources/dipole))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Matlab® Script, dipole.m ([M](/courses/electrical-engineering-and-computer-scie
 {{< tdopen >}}
 Wave Propagation in Free Space ([MP4](/ans7870/6/6.630/f06/tools/freespace.mp4))  
   
-Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/media.m))
+Matlab® Script, media.m ([M]({{< baseurl >}}/resources/media))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ VSWP of a Quarter Wave Transformer for the Mismatched Case ([MP4](/ans7870/6/6.6
 {{< tdopen >}}
 Wave in a very Lossy Medium ([MP4](/ans7870/6/6.630/f06/tools/lossy.mp4))  
   
-Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/media.m))
+Matlab® Script, media.m ([M]({{< baseurl >}}/resources/media))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +116,7 @@ Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-scien
 {{< tdopen >}}
 Wave in a Plasma Medium ([MP4](/ans7870/6/6.630/f06/tools/plasma.mp4))  
   
-Matlab® Script, media.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/media.m))
+Matlab® Script, media.m ([M]({{< baseurl >}}/resources/media))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +134,7 @@ Propagation of a UPW Through a Rectangular Aperture: ([MP4](/ans7870/6/6.630/f06
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Resonator, res.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/res.m))  
+Resonator, res.m ([M]({{< baseurl >}}/resources/res))  
   
 High-Q ([MP4 - 5.6MB](/ans7870/6/6.630/f06/tools/high_q.mp4)), Low-Q ([MP4 - 5.5MB](/ans7870/6/6.630/f06/tools/low_q.mp4))  
   
@@ -156,7 +156,7 @@ Transients on Transmission Lines ([MPEG - 4.4MB](/ans7870/6/6.630/f06/tools/Tlin
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Reflection Coefficients, refl\_coef.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/refl_coef.m))
+Reflection Coefficients, refl\_coef.m ([M]({{< baseurl >}}/resources/refl_coef))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +165,7 @@ Reflection Coefficients, refl\_coef.m ([M](/courses/electrical-engineering-and-c
 15
 {{< tdclose >}}
 {{< tdopen >}}
-3D Dipole Array Patterns, dparray3.m ([M](/courses/electrical-engineering-and-computer-science/6-630-electromagnetics-fall-2006/tools/dparray3.m))
+3D Dipole Array Patterns, dparray3.m ([M]({{< baseurl >}}/resources/dparray3))
 {{< tdclose >}}
 
 {{< trclose >}}
