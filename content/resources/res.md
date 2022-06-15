@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the supporting file for the topic Resonator.
-file: /media/courses/6-630-electromagnetics-fall-2006/9a861890304847f4e12fedd56bf09b3e_res.m
+file: /courses/6-630-electromagnetics-fall-2006/9a861890304847f4e12fedd56bf09b3e_res.m
 file_type: text/plain
 learning_resource_types:
 - Tools
@@ -13,3 +13,5 @@ resourcetype: Other
 title: res.m
 uid: 9a861890-3048-47f4-e12f-edd56bf09b3e
 ---
+This resource is the supporting file for the topic Resonator.
+

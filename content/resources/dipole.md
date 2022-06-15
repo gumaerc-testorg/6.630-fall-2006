@@ -1,15 +1,20 @@
 ---
 content_type: resource
-description: This resource is the supporting file for the topic Hertzian Dipole.
-file: /media/courses/6-630-electromagnetics-fall-2006/d7ddef904afef5379246f1f7123c33dc_dipole.m
-file_type: text/plain
-learning_resource_types:
-- Tools
+description: This resource contains the setup and procedural information for Dipoles.
+file: /courses/6-630-electromagnetics-fall-2006/a1c03bebac5c6eb5e8e092407577fd1f_dipole.pdf
+file_type: application/pdf
+learning_resource_types: []
 ocw_type: OCWFile
-parent_title: Tools
+parent_title: Study Materials
 parent_type: CourseSection
-parent_uid: f91abf67-93d6-ab06-09d8-68efec359e08
-resourcetype: Other
-title: dipole.m
-uid: d7ddef90-4afe-f537-9246-f1f7123c33dc
+parent_uid: 389ec559-bff1-dd7d-1c0a-b11e71e43d7b
+resourcetype: Document
+title: dipole.pdf
+uid: a1c03beb-ac5c-6eb5-e8e0-92407577fd1f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
+This resource contains the setup and procedural information for Dipoles.
+
