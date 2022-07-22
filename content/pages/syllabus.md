@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  grading criteria and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d9614c84-7152-3813-ce2b-907c1d7f6b7e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
