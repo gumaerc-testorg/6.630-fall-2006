@@ -5,6 +5,7 @@ file: /courses/6-630-electromagnetics-fall-2006/9a861890304847f4e12fedd56bf09b3e
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: res.m
 uid: 9a861890-3048-47f4-e12f-edd56bf09b3e
 ---
 This resource is the supporting file for the topic Resonator.
-

@@ -6,6 +6,7 @@ file: /courses/6-630-electromagnetics-fall-2006/fbf149f18ecb5815aaf9c78d5b6c05e5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains problems to test students understanding of course material.
-

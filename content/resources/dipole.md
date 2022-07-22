@@ -4,6 +4,7 @@ description: This resource contains the setup and procedural information for Dip
 file: /courses/6-630-electromagnetics-fall-2006/a1c03bebac5c6eb5e8e092407577fd1f_dipole.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the setup and procedural information for Dipoles.
-

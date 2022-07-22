@@ -5,6 +5,7 @@ description: This resource contains the setup and procedural information for Lum
 file: /courses/6-630-electromagnetics-fall-2006/64409b23246774a62477edd373d5ac0b_lumped.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the setup and procedural information for Lumped Element Transmission Line.
-

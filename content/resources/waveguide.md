@@ -4,6 +4,7 @@ description: This resource contains the setup and procedural information for Wav
 file: /courses/6-630-electromagnetics-fall-2006/c4c511cdb74bc9bab772d1b44a31a9d4_waveguide.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the setup and procedural information for Waveguide.
-

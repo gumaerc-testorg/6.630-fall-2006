@@ -5,6 +5,7 @@ file: /courses/6-630-electromagnetics-fall-2006/9d17ccb0ae9c37459fbc6ba0627f8697
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the resonator structure diagram.
-

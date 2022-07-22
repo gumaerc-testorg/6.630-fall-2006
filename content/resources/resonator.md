@@ -5,6 +5,7 @@ description: This resource contains the setup and procedural information for Res
 file: /courses/6-630-electromagnetics-fall-2006/fbe25ed0bbbe697c896c0408d51cbe7f_resonator.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the setup and procedural information for Resonant Cavity and Perturbation.
-

@@ -5,6 +5,7 @@ description: This resource contains the setup and procedural information for Cri
 file: /courses/6-630-electromagnetics-fall-2006/9fa60f33be8ed82f7b29284f15e3edaa_critical.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the setup and procedural information for Critical Angle.
-

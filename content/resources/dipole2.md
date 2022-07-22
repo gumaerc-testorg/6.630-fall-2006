@@ -5,6 +5,7 @@ file: /courses/6-630-electromagnetics-fall-2006/d7ddef904afef5379246f1f7123c33dc
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dipole.m
 uid: d7ddef90-4afe-f537-9246-f1f7123c33dc
 ---
 This resource is the supporting file for the topic Hertzian Dipole.
-
