@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is the supporting file for the topic 3D Dipole Array Patterns.
 file: /courses/6-630-electromagnetics-fall-2006/ee7e6fb24b2c88c6d6ab810fbe23f352_dparray3.m
+file_size: 1912
 file_type: text/plain
 learning_resource_types:
 - Tools

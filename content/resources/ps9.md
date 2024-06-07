@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems to test students understanding of course
   material.
 file: /courses/6-630-electromagnetics-fall-2006/7b19dc30b42f209d793b04601a1d9929_ps9.pdf
+file_size: 486128
 file_type: application/pdf
 learning_resource_types:
 - Assignments
