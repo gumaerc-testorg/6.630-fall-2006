@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the setup and procedural information for Waveguide.
-file: /courses/6-630-electromagnetics-fall-2006/c4c511cdb74bc9bab772d1b44a31a9d4_waveguide.pdf
+file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/c4c511cdb74bc9bab772d1b44a31a9d4_waveguide.pdf
 file_size: 67603
 file_type: application/pdf
 learning_resource_types: []
