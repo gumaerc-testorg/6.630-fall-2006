@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the setup and procedural information for Resonant
   Cavity and Perturbation.
-file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/fbe25ed0bbbe697c896c0408d51cbe7f_resonator.pdf
+file: /courses/6-630-electromagnetics-fall-2006/fbe25ed0bbbe697c896c0408d51cbe7f_resonator.pdf
 file_size: 54926
 file_type: application/pdf
 learning_resource_types: []
