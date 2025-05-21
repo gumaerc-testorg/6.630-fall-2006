@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the setup and procedural information for Dipoles.
-file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/a1c03bebac5c6eb5e8e092407577fd1f_dipole.pdf
+file: /courses/6-630-electromagnetics-fall-2006/a1c03bebac5c6eb5e8e092407577fd1f_dipole.pdf
 file_size: 56817
 file_type: application/pdf
 learning_resource_types: []

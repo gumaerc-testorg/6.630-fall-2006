@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the supporting file for the topic Wave in a Plasma Medium.
-file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/816cb73369b4e88e4d3333345b5929fb_media.m
+file: /courses/6-630-electromagnetics-fall-2006/816cb73369b4e88e4d3333345b5929fb_media.m
 file_size: 1053
 file_type: text/plain
 learning_resource_types:

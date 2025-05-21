@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the setup and procedural information for Evanescent
   Wave.
-file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/0602d912b209688ba3ab5140a4669505_evanescent.pdf
+file: /courses/6-630-electromagnetics-fall-2006/0602d912b209688ba3ab5140a4669505_evanescent.pdf
 file_size: 85606
 file_type: application/pdf
 learning_resource_types: []
