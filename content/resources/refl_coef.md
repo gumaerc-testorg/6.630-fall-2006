@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is the supporting file for the topic Reflection Coefficients.
-file: /courses/6-630-electromagnetics-fall-2006/a26c8b2eb39f9f6ea8289fb86e35de0c_refl_coef.m
+file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/a26c8b2eb39f9f6ea8289fb86e35de0c_refl_coef.m
 file_size: 1099
 file_type: text/plain
 learning_resource_types:
