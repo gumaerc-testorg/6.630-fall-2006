@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems to test students understanding of course
   material.
-file: /courses/6-630-electromagnetics-fall-2006/718e7e98255ba051e1aff7644cc19cb1_ps7.pdf
+file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/718e7e98255ba051e1aff7644cc19cb1_ps7.pdf
 file_size: 438018
 file_type: application/pdf
 learning_resource_types:
