@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the setup and procedural information for Lumped
   Element Transmission Line.
-file: /courses/6-630-electromagnetics-fall-2006/64409b23246774a62477edd373d5ac0b_lumped.pdf
+file: /ol-ocw-studio-app/courses/6-630-electromagnetics-fall-2006/64409b23246774a62477edd373d5ac0b_lumped.pdf
 file_size: 89932
 file_type: application/pdf
 learning_resource_types: []
